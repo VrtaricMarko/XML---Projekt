@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <LATEST_TRAILERS>
+        <movie>
+            <name>X-Man: Last Stand</name>
+            <year>2006</year>
+            <genre>Action • Adventure • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Spider Man 2</name>
+            <year>2004</year>
+            <genre>Action • Adventure • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Spider Man 3</name>
+            <year>2007</year>
+            <genre>Action • Adventure • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Valkyrie</name>
+            <year>2008</year>
+            <genre>Drama • History • Thriller</genre>
+        </movie>
+        <movie>
+            <name>Gladiator</name>
+            <year>2000</year>
+            <genre>Action • Adventure • Drama</genre>
+        </movie>
+    </LATEST_TRAILERS>
+    <TOP_RATED>
+        <movie>
+            <name>Transformers</name>
+            <year>2007</year>
+            <genre>Action • Adventure • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Avengers: Endgame</name>
+            <year>2019</year>
+            <genre>Action • Adventure • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Kung Fu Panda</name>
+            <year>2008</year>
+            <genre>Action • Animation • Comedy</genre>
+        </movie>
+        <movie>
+            <name>Eagle Eye</name>
+            <year>2008</year>
+            <genre>Action • Mystery • Thriller</genre>
+        </movie>
+        <movie>
+            <name>Narnia</name>
+            <year>2008</year>
+            <genre>Action • Adventure • Family</genre>
+        </movie>
+    </TOP_RATED>
+    <MOST_COMMENTED>
+        <movie>
+            <name>Interstellar</name>
+            <year>2014</year>
+            <genre>Adventure • Drama • Sci-Fi</genre>
+        </movie>
+        <movie>
+            <name>Vacancy</name>
+            <year>2007</year>
+            <genre>Horror • Drama • Thriller</genre>
+        </movie>
+        <movie>
+            <name>Mirrors</name>
+            <year>2008</year>
+            <genre>Horror • Drama • Mystery</genre>
+        </movie>
+        <movie>
+            <name>The Kingdom</name>
+            <year>2007</year>
+            <genre>Action • Drama • Thriller</genre>
+        </movie>
+        <movie>
+            <name>Motives</name>
+            <year>2004</year>
+            <genre>Action • Drama • Thriller</genre>
+        </movie>
+    </MOST_COMMENTED>
+</movies>

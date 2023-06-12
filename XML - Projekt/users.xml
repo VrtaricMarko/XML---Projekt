@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_list>
+    <user>
+        <username>user1</username>
+        <password>12345</password>
+        <ime>Žiža</ime>
+        <prezime>Mrvinjak</prezime>
+        
+    </user>
+    <user>
+        <username>user2</username>
+        <password>12345</password>
+        <ime>Žon</ime>
+        <prezime>Vandal</prezime>
+    </user>
+    <user>
+        <username>user3</username>
+        <password>12345</password>
+        <ime>Mrko</ime>
+        <prezime>Zemljić</prezime>
+    </user>
+    <user>
+        <username>user4</username>
+        <password>12345</password>
+        <ime>Zvibor</ime>
+        <prezime>Trombon</prezime>
+    </user>
+    <user>
+        <username>user5</username>
+        <password>12345</password>
+        <ime>Kermit</ime>
+        <prezime>Žabnji</prezime>
+    </user>
+</user_list>
